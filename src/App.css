@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.text-header-modal{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.text-p-modal{
+    color: #7A7A7A;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}

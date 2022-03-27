@@ -1,0 +1,23 @@
+ *{
+    font-family: 'Commissioner', sans-serif;
+ }
+
+ .margin-center{
+     margin: 0 auto;
+ }
+.text-header{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    text-align: center;
+    
+}
+
+.text-p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #7A7A7A;
+    text-align: center;
+}
